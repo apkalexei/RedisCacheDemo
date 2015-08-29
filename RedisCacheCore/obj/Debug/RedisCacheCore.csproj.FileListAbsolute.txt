@@ -1,0 +1,15 @@
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\TestRedis\RedisCacheCore\bin\Debug\RedisCacheCore.dll
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\TestRedis\RedisCacheCore\bin\Debug\RedisCacheCore.pdb
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\TestRedis\RedisCacheCore\bin\Debug\StackExchange.Redis.dll
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\TestRedis\RedisCacheCore\bin\Debug\StackExchange.Redis.pdb
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\TestRedis\RedisCacheCore\bin\Debug\StackExchange.Redis.xml
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\TestRedis\RedisCacheCore\obj\Debug\RedisCacheCore.dll
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\TestRedis\RedisCacheCore\obj\Debug\RedisCacheCore.pdb
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\TestRedis\RedisCacheCore\obj\Debug\RedisCacheCore.csprojResolveAssemblyReference.cache
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\RedisCache\RedisCacheCore\bin\Debug\RedisCacheCore.dll
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\RedisCache\RedisCacheCore\bin\Debug\RedisCacheCore.pdb
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\RedisCache\RedisCacheCore\bin\Debug\StackExchange.Redis.dll
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\RedisCache\RedisCacheCore\bin\Debug\StackExchange.Redis.pdb
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\RedisCache\RedisCacheCore\bin\Debug\StackExchange.Redis.xml
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\RedisCache\RedisCacheCore\obj\Debug\RedisCacheCore.dll
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\RedisCache\RedisCacheCore\obj\Debug\RedisCacheCore.pdb
